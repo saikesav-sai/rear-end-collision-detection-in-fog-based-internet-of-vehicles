@@ -1,7 +1,7 @@
 # 📌 Rear-End Collision Detection in Fog-Based Internet of Vehicles
 
 ## 📹 Demonstration Video
-A demonstration of the dataset generation process using PTV Vissim under various fog conditions is available on YouTube. Watch the video here:
+A demonstration of the dataset generation process using PTV Vissim under various fog conditions is available on YouTube. Watch the video here 
 
 [![Dataset Generation Demo](https://img.youtube.com/vi/G0tXEq5pQ0A/0.jpg)](https://youtu.be/G0tXEq5pQ0A)
 
